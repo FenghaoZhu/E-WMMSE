@@ -28,3 +28,6 @@ GPU : NVIDIA Geforce RTX 4070
 OS : Windows 11 Pro (23H2)    
 MATLAB Version : R2023a    
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FenghaoZhu/E-WMMSE&type=Date)](https://star-history.com/#FenghaoZhu/E-WMMSE&Date)
